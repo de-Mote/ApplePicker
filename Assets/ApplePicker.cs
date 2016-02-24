@@ -39,4 +39,7 @@ public class ApplePicker : MonoBehaviour
             Application.LoadLevel("_Scene_0");
         }
     }
+	void Update () {
+
+	}
 }
